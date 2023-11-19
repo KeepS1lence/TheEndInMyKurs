@@ -1,0 +1,18 @@
+h1{
+ color:red;
+ display: flex;
+ justify-content:flex-start; 
+ border:dashed 5px black;
+ height:80px;
+ width:980px; 
+}
+body{
+ display: flex;
+ justify-content:flex-start;
+ background:linear-gradient(to right,#8CC4E0,#E0AA3A,#E3A976,#67E67C);
+}
+a{
+  text-decoration:none;
+  float:left;
+  font-size:40px;
+}
